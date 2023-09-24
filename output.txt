@@ -1,0 +1,48 @@
+Scheduling Method: First Come First Served
+Process Waiting Times:
+P1: 0 ms
+P2: 4 ms
+P3: 8 ms
+P4: 10 ms
+P5: 13 ms
+Average Waiting Time: 7 ms
+Scheduling Method: Shortest Job First - Non-Preemptive
+Process Waiting Times:
+P1: 0 ms
+P2: 10 ms
+P3: 4 ms
+P4: 13 ms
+P5: 5 ms
+Average Waiting Time: 6.4 ms
+Scheduling Method: Shortest Job First - Preemptive
+Process Waiting Times:
+P1: 6 ms
+P2: 10 ms
+P3: 0 ms
+P4: 13 ms
+P5: 1 ms
+Average Waiting Time: 6 ms
+Scheduling Method: Priority Scheduling - Preemptive
+Process Waiting Times:
+P1: 14 ms
+P2: 6 ms
+P3: 0 ms
+P4: 9 ms
+P5: 1 ms
+Average Waiting Time: 6 ms
+Scheduling Method: Priority Scheduling - Non-Preemptive
+Process Waiting Times:
+P1: 0 ms
+P2: 10 ms
+P3: 4 ms
+P4: 13 ms
+P5: 5 ms
+Average Waiting Time: 6.4 ms
+Scheduling Method: Round Robin Scheduling - time_quantum=2
+Process Waiting Times:
+P1: 14 ms
+P2: 9 ms
+P3: 11 ms
+P4: 11 ms
+P5: 12 ms
+Average Waiting Time: 11.4 ms
